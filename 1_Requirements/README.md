@@ -1,4 +1,5 @@
- Name                       |                          Description                                |   
+## REQUIREMENTS
+Name                       |                          Description                                |   
 ----------------------------|---------------------------------------------------------------------|
 `1) H_01                    | Beagle Bone Black – A microprocessor used as a primary control unit | 
 `2) H_02                    | RGB                                                                 |   
