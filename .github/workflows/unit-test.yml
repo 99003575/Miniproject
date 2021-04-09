@@ -15,5 +15,5 @@ jobs:
     - uses: actions/checkout@v2
     - name: Install Cunit
       run: sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev 
-    - name: make 3_Implementation/Makefile
-      run:  make 3_Implementation/Makefile
+    - name: make 4_Implementation/Makefile
+      run:  make 4_Implementation/Makefile
